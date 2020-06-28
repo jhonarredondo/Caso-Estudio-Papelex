@@ -1,0 +1,2 @@
+# Caso-Estudio-Papelex
+El caso plantea como sería un estudio de control de la calidad en una empresa pequeña de la ciudad de Medellín, dedicada primordialmente a la tranformación de material reciclable. Como forma de presentación, se realizó un aplicativo en Shiny. La información de la empresa Papelex, como producción, defectos de producto, etc. fueron creados con números aleatorios, esto ante la imposibilidad de tomar datos reales.
